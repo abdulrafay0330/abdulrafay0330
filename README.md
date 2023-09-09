@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdulrafay0330
-- 👀 I’m interested in ... Codig and web development
+- 👀 I’m interested in ... Coding and web development 
 - 🌱 I’m currently learning ... web development and 
 - 💞️ I’m looking to collaborate on ... projects
 - 📫 How to reach me ... just email or dm me  
